@@ -1,0 +1,36 @@
+nav {
+
+   
+}
+
+input {
+    margin-bottom: 20px;
+}
+header {
+    width: 70%;
+    margin:auto;
+}
+main {
+    display: grid;
+    /* width: 70%; */
+    grid-template-columns: 1fr;
+    margin:auto;
+    padding-top: 40px;
+  
+}
+
+#populate {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    margin: 10px;
+    width: 400px;
+    height: 440px;
+
+}
+footer {
+
+}
